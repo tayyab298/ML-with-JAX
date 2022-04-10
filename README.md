@@ -4,5 +4,5 @@ in this repo i have tried to implement two hidden layers neural network classifi
 ## Keeping Track of Things 📨
 
 | Date  | Post  | 
-| ------ |:-------------:| -----:|
+| ------ |:-------------:|
 | 04/10 | [`Neural Networks in JAX`](https://github.com/tayyab298/ML-with-JAX/blob/main/MNIST_JAX.ipynb) | 
